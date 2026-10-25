@@ -1,0 +1,34 @@
+{
+ "_what": "",
+ "primary_tag": {
+  "S1": "similarity_height",
+  "S2": "affine_height",
+  "S3": "similarity_height",
+  "S4": "similarity_height"
+ },
+ "bound_tags": {
+  "S1": [
+   "scalelo_height",
+   "scalehi_height"
+  ],
+  "S2": [
+   "affinelo_height",
+   "affinehi_height"
+  ],
+  "S3": [
+   "scalelo_height",
+   "scalehi_height"
+  ],
+  "S4": [
+   "scalelo_height",
+   "scalehi_height"
+  ]
+ },
+ "mirror_new": "mirror_primary",
+ "D4a": {
+  "S1": "",
+  "S2": "",
+  "S3": "",
+  "S4": ""
+ }
+}

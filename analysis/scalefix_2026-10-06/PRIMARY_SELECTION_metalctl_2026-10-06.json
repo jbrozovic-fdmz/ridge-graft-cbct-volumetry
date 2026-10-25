@@ -1,0 +1,38 @@
+{
+ "rigid_tag": "rigid_height_metalctl",
+ "mirror_new": "mirror_primary",
+ "D4a": {
+  "S1": "",
+  "S2": "",
+  "S3": "",
+  "S4": ""
+ },
+ "scalefix_selection": "analysis/scalefix_2026-10-06/PRIMARY_SELECTION_2026-10-06.json",
+ "_what": "",
+ "variant": "metalctl",
+ "variant_note": "",
+ "primary_tag": {
+  "S1": "similarity_height_metalctl",
+  "S2": "affine_height_metalctl",
+  "S3": "similarity_height",
+  "S4": "similarity_height_metalctl"
+ },
+ "bound_tags": {
+  "S1": [
+   "scalelo_height_metalctl",
+   "scalehi_height_metalctl"
+  ],
+  "S2": [
+   "affinelo_height_metalctl",
+   "affinehi_height_metalctl"
+  ],
+  "S3": [
+   "scalelo_height_metalctl",
+   "scalehi_height_metalctl"
+  ],
+  "S4": [
+   "scalelo_height_metalctl",
+   "scalehi_height_metalctl"
+  ]
+ }
+}
